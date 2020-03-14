@@ -1,5 +1,5 @@
 Borough,Local authority,Political control,Headquarters,Area (sq mi),Population (2013 est),Latitude,Longitude,Nr. in map
-Barking and Dagenham [note 1],Barking and Dagenham London Borough Council,Labour,"Town Hall, 1 Town Square",13.93,"194,352",51.5607,0.1557,25
+Barking and Dagenham,Barking and Dagenham London Borough Council,Labour,"Town Hall, 1 Town Square",13.93,"194,352",51.5607,0.1557,25
 Barnet,Barnet London Borough Council,Conservative,"North London Business Park, Oakleigh Road South",33.49,"369,088",51.6252,0.1517,31
 Bexley,Bexley London Borough Council,Conservative,"Civic Offices, 2 Watling Street",23.38,"236,687",51.4549,0.1505,23
 Brent,Brent London Borough Council,Labour,"Brent Civic Centre, Engineers Way",16.7,"317,264",51.5588,0.2817,12
@@ -8,27 +8,27 @@ Camden,Camden London Borough Council,Labour,"Camden Town Hall, Judd Street",8.4,
 Croydon,Croydon London Borough Council,Labour,"Bernard Weatherill House, Mint Walk",33.41,"372,752",51.3714,0.0977,19
 Ealing,Ealing London Borough Council,Labour,"Perceval House, 14-16 Uxbridge Road",21.44,"342,494",51.513,0.3089,13
 Enfield,Enfield London Borough Council,Labour,"Civic Centre, Silver Street",31.74,"320,524",51.6538,0.0799,30
-Greenwich [note 2],Greenwich London Borough Council,Labour,"Woolwich Town Hall, Wellington Street",18.28,"264,008",51.4892,0.0648,22
+Greenwich,Greenwich London Borough Council,Labour,"Woolwich Town Hall, Wellington Street",18.28,"264,008",51.4892,0.0648,22
 Hackney,Hackney London Borough Council,Labour,"Hackney Town Hall, Mare Street",7.36,"257,379",51.545,0.0553,9
-Hammersmith and Fulham [note 4],Hammersmith and Fulham London Borough Council,Labour,"Town Hall, King Street",6.33,"178,685",51.4927,0.2339,4
+Hammersmith and Fulham,Hammersmith and Fulham London Borough Council,Labour,"Town Hall, King Street",6.33,"178,685",51.4927,0.2339,4
 Haringey,Haringey London Borough Council,Labour,"Civic Centre, High Road",11.42,"263,386",51.6,0.1119,29
 Harrow,Harrow London Borough Council,Labour,"Civic Centre, Station Road",19.49,"243,372",51.5898,0.3346,32
-Havering,Havering London Borough Council,Conservative (council NOC),"Town Hall, Main Road",43.35,"242,080",51.5812,0.1837,24
+Havering,Havering London Borough Council,Conservative,"Town Hall, Main Road",43.35,"242,080",51.5812,0.1837,24
 Hillingdon,Hillingdon London Borough Council,Conservative,"Civic Centre, High Street",44.67,"286,806",51.5441,0.476,33
 Hounslow,Hounslow London Borough Council,Labour,"Hounslow House, 7 Bath Road",21.61,"262,407",51.4746,0.368,14
 Islington,Islington London Borough Council,Labour,"Municipal Offices, 222 Upper Street",5.74,"215,667",51.5416,0.1022,10
-Kensington and Chelsea,Kensington and Chelsea London Borough Council,Conservative,"The Town Hall, Hornton Street",4.68,"155,594",51.502,0.1947,3
-Kingston upon Thames,Kingston upon Thames London Borough Council,Liberal Democrat,"Guildhall, High Street",14.38,"166,793",51.4085,0.3064,16
+Kensington and Chelsea,Kensington and Chelsea London Borough Council,Conservative,"The Town Hall,Â Hornton Street",4.68,"155,594",51.502,0.1947,3
+Kingston upon Thames,Kingston upon Thames London Borough Council,LiberalÂ Democrat,"Guildhall, High Street",14.38,"166,793",51.4085,0.3064,16
 Lambeth,Lambeth London Borough Council,Labour,"Lambeth Town Hall, Brixton Hill",10.36,"314,242",51.4607,0.1163,6
 Lewisham,Lewisham London Borough Council,Labour,"Town Hall, 1 Catford Road",13.57,"286,180",51.4452,0.0209,21
 Merton,Merton London Borough Council,Labour,"Civic Centre, London Road",14.52,"203,223",51.4014,0.1958,17
 Newham,Newham London Borough Council,Labour,"Newham Dockside, 1000 Dockside Road",13.98,"318,227",51.5077,0.0469,27
 Redbridge,Redbridge London Borough Council,Labour,"Town Hall, 128-142 High Road",21.78,"288,272",51.559,0.0741,26
-Richmond upon Thames,Richmond upon Thames London Borough Council,Liberal Democrat,"Civic Centre, 44 York Street",22.17,"191,365",51.4479,0.326,15
+Richmond upon Thames,Richmond upon Thames London Borough Council,LiberalÂ Democrat,"Civic Centre, 44 York Street",22.17,"191,365",51.4479,0.326,15
 Southwark,Southwark London Borough Council,Labour,160 Tooley Street,11.14,"298,464",51.5035,0.0804,7
-Sutton,Sutton London Borough Council,Liberal Democrat,"Civic Offices, St Nicholas Way",16.93,"195,914",51.3618,0.1945,18
+Sutton,Sutton London Borough Council,LiberalÂ Democrat,"Civic Offices, St Nicholas Way",16.93,"195,914",51.3618,0.1945,18
 Tower Hamlets,Tower Hamlets London Borough Council,Labour,"Town Hall, Mulberry Place, 5 Clove Crescent",7.63,"272,890",51.5099,0.0059,8
 Waltham Forest,Waltham Forest London Borough Council,Labour,"Waltham Forest Town Hall, Forest Road",14.99,"265,797",51.5908,0.0134,28
-Wandsworth,Wandsworth London Borough Council,Conservative,"The Town Hall, Wandsworth High Street",13.23,"310,516",51.4567,0.191,5
+Wandsworth,Wandsworth London Borough Council,Conservative,"The Town Hall,Â Wandsworth High Street",13.23,"310,516",51.4567,0.191,5
 Westminster,Westminster City Council,Conservative,"Westminster City Hall, 64 Victoria Street",8.29,"226,841",51.4973,0.1372,2
-City of London,,? ,Guildhall,1.12,"7,000",51.5155,0.0922,1
+City of London,?Â ,Guildhall,1.12,"7,000",51.5155,0.0922,1
